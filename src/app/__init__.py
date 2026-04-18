@@ -1,0 +1,2 @@
+"""Invoice MCP application package."""
+
